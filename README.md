@@ -16,3 +16,10 @@ Team player, actively participated in organizations and projects (both internal 
 You can also view my github stat below: 
 <br> ![github stats](https://github-readme-stats.vercel.app/api?username=BillyMRX1&show_icons=true)
 <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyMRX1&layout=compact)](https://github.com/BillyMRX1/README.md)
+
+Skills: <br>
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
