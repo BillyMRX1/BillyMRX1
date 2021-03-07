@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.instagram.com/brilian.ap"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/brilian-ade-putra/"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/stephenajulu"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/BillyMRX1"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
 <a href="mailto:brilianadeputra@gmail.com"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/gmail.svg"></a>&nbsp;&nbsp;
 </p>
 
