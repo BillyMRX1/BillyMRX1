@@ -1,11 +1,21 @@
 # Hi, I’m Billy 👋
 
 <p align="center">
-  <a href="https://github.com/BillyMRX1"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/github.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brilianap"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/linkedin.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brilian.ap"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/instagram.svg"></a>&nbsp;&nbsp;
-  <a href="mailto:brilianadeputra@gmail.com"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/gmail.svg"></a>&nbsp;&nbsp;
-  <a href="https://billymrx.vercel.app"><img height="30" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/portfolio.svg"></a>
+  <a href="https://github.com/BillyMRX1">
+    <img height="24" width="24" style="vertical-align:middle;" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/github.svg" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brilianap">
+    <img height="24" width="24" style="vertical-align:middle;" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/linkedin.svg" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/brilian.ap">
+    <img height="24" width="24" style="vertical-align:middle;" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/instagram.svg" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:brilianadeputra@gmail.com">
+    <img height="24" width="24" style="vertical-align:middle;" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/gmail.svg" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://billymrx.com">
+    <img height="24" width="24" style="vertical-align:middle;" src="https://github.com/BillyMRX1/BillyMRX1/blob/main/icon/portfolio.svg" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
