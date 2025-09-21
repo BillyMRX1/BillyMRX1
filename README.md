@@ -44,7 +44,7 @@
 ---
 
 ## 💬 Get in Touch
-- 🌐 **Website:** [billymrx.vercel.app](https://billymrx.vercel.app)  
+- 🌐 **Website:** [billymrx.vercel.app](https://billymrx.com)  
 - 📧 [Email](mailto:brilianadeputra@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/brilianap/)  
 Open to **collabs, speaking, or tech-chat** (English / Bahasa).  
 
