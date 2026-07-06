@@ -48,6 +48,11 @@ More on [billymrx.com](https://billymrx.com/#projects).
 
 ## ✍️ Latest Writing
 <!-- BLOG-POST-LIST:START -->
+- [Building a PDF-Powered RAG Service with FastAPI, Chroma, and OpenAI](https://medium.com/@brilianadeputra/building-a-pdf-powered-rag-service-with-fastapi-chroma-and-openai-1ca773e94eb3?source=rss-c7c2dfe34b65------2)
+- [Getting Started with OpenAI: A Beginner’s Guide](https://medium.com/@brilianadeputra/getting-started-with-openai-a-beginners-guide-394f5628a4c6?source=rss-c7c2dfe34b65------2)
+- [Membangun Gemini API Sample di Jetpack Compose dengan Room dan Koin: A Complete Guide](https://medium.com/@brilianadeputra/membangun-gemini-api-sample-di-jetpack-compose-dengan-room-dan-koin-a-complete-guide-79daa050f1be?source=rss-c7c2dfe34b65------2)
+- [Building a Gemini API Sample in Jetpack Compose with Room and Koin: A Complete Guide](https://medium.com/@brilianadeputra/building-a-gemini-api-sample-in-jetpack-compose-with-room-and-koin-a-complete-guide-59b3dfbc8697?source=rss-c7c2dfe34b65------2)
+- [How to Use Koin and Room Database in Kotlin Multiplatform](https://medium.com/@brilianadeputra/how-to-use-koin-and-room-database-in-kotlin-multiplatform-ce73577e4cc9?source=rss-c7c2dfe34b65------2)
 <!-- BLOG-POST-LIST:END -->
 
 Read more on [Medium](https://medium.com/@brilianadeputra).
