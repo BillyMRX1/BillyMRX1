@@ -62,12 +62,12 @@ Read more on [Medium](https://medium.com/@brilianadeputra).
 ## 📈 GitHub Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BillyMRX1&show_icons=true&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=BillyMRX1&show_icons=true&hide_border=true" alt="Billy's GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.billymrx.com/api?username=BillyMRX1&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://stats.billymrx.com/api?username=BillyMRX1&show_icons=true&hide_border=true" alt="Billy's GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyMRX1&layout=compact&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyMRX1&layout=compact&hide_border=true" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.billymrx.com/api/top-langs/?username=BillyMRX1&layout=compact&theme=github_dark&hide_border=true">
+    <img src="https://stats.billymrx.com/api/top-langs/?username=BillyMRX1&layout=compact&hide_border=true" alt="Top languages">
   </picture>
 </p>
 
